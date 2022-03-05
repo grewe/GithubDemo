@@ -6,4 +6,9 @@ public class Main {
 	// write your code here
         System.out.println("high back"); //lynne added
     }
+
+
+    public static void newHello(){
+        System.out.println("new hello");
+    }
 }
